@@ -16,6 +16,6 @@ Then save it with a meaningful name like: python3.sublime-build
 test it with:
 
  - import sys
- -print(sys.version)
+ - print(sys.version)
 
 `Press: Ctrl + b `
